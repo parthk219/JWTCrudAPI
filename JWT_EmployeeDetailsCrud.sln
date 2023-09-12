@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33801.447
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JWT_EmployeeDetailsCrud", "JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud.csproj", "{4E234290-C387-498B-8BFE-9B53C7A9235A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E234290-C387-498B-8BFE-9B53C7A9235A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E234290-C387-498B-8BFE-9B53C7A9235A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E234290-C387-498B-8BFE-9B53C7A9235A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E234290-C387-498B-8BFE-9B53C7A9235A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F93ADC6B-FA1A-46C2-B185-6FC3DDF08906}
+	EndGlobalSection
+EndGlobal

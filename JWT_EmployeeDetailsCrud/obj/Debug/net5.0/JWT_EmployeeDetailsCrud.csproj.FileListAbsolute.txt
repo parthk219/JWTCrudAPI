@@ -1,0 +1,6 @@
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.csproj.AssemblyReference.cache
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.AssemblyInfoInputs.cache
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.AssemblyInfo.cs
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.csproj.CoreCompileInputs.cache
+C:\Users\parth\source\repos\JWT_EmployeeDetailsCrud\JWT_EmployeeDetailsCrud\obj\Debug\net5.0\JWT_EmployeeDetailsCrud.MvcApplicationPartsAssemblyInfo.cache
