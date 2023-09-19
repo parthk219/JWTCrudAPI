@@ -18,7 +18,7 @@ public class EmployeesController : ControllerBase
     private readonly IConfiguration _configuration;
     //private readonly string _connectionString;
 
-    private const string _connectionString = "Server=(LocalDB)\\MSSQLLocalDB;Database=YourDatabaseName;Trusted_Connection=True;MultipleActiveResultSets=true;";
+    private const string _connectionString = "Server=(LocalDB)\\MSSQLLocalDB;Database=empcrudjwt;Trusted_Connection=True;MultipleActiveResultSets=true;";
 
 
     public EmployeesController(IConfiguration configuration)
