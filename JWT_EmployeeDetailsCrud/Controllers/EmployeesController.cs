@@ -56,12 +56,17 @@ public class EmployeesController : ControllerBase
 
     public IActionResult Authenticate(LoginModel model)
     {
-        // Add authentication logic here (e.g., validate username and password)
+        if (model.Username == "Parth" && model.Password == "Mypassword")
+        {
+            // Assuming authentication is successful, generate token
+            var token = GenerateJwtToken(model.Username);
 
-        // Assuming authentication is successful, generate token
-        var token = GenerateJwtToken(model.Username);
-
-        return Ok(new { Token = token });
+            return Ok(new { Token = token });
+        }
+        else
+        {
+            return Unauthorized(); // Return Unauthorized response
+        }
     }
 
     [Authorize]
